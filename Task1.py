@@ -1,5 +1,5 @@
 from queue import Queue  # Імпортуємо чергу з модуля queue
-import random  # Імпортуємо модуль для генерації випадкових даних
+import random  # Імпортуємо модуль генерації випадкових даних
 import time  # Імпортуємо модуль для імітації затримки у часі
 
 class Application:
