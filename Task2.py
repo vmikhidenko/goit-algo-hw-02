@@ -19,4 +19,7 @@ def is_palindrome(text):
 
 # Тестуємо функцію
 text = "ABc C b A"
+text1 = "ABc  b A"
 print(is_palindrome(text))  # Повинно вивести True, оскільки це паліндром
+print(is_palindrome(text1))  # Повинно вивести True, оскільки це паліндром
+
